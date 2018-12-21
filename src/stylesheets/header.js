@@ -5,9 +5,6 @@ export const wintitleh = '25px'
 
 export default ({vibrancyOpacity}) => {
   return `
-    .header_header {
-      background-color: rgba(255,255,255,0.08);
-    }
     .header_windowHeader {
       background-color: #D2323C;
       height: ${wintitleh};
@@ -95,6 +92,15 @@ export default ({vibrancyOpacity}) => {
     }
     .tab_tab .tab_icon:hover:before {
       transform: scale(1);
+    }
+    .terms_termGroup {
+      top: -5px;
+    }
+    .terms_terms {
+      margin-bottom: 25px;
+    }
+    .tabs_nav {
+      top: 25px;
     }
   `
 }
