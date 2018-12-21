@@ -4,7 +4,7 @@
 Hyper Anceril is Hyper ThemePlugin
 Hyperのアンセルテーマ・プラグインです。
 
- ### [アンセリス=セイクリッド](https://dic.pixiv.net/a/%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB) *** y
+ #### [アンセリス=セイクリッド](https://dic.pixiv.net/a/%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB)
 
  ### Author
  - Winding
