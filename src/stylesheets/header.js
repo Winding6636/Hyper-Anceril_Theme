@@ -1,13 +1,11 @@
 import color from 'color'
 import {backgroundColor, foregroundColor} from '../colors'
 
-export const wintitleh = '25px'
-
 export default ({vibrancyOpacity}) => {
   return `
     .header_windowHeader {
       background-color: #D2323C;
-      height: ${wintitleh};
+      height: 25px;
     }
     .header_shape {
       top: 1px;
