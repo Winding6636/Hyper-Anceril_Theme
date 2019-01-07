@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Winding6636/Hyper-Anceril_Theme.git"
+    "url": "git+https://github.com/Winding6636/Hyper-Ancerise_Theme.git"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -48,7 +48,7 @@
   "license": "MIT",
   "author": "Winding",
   "bugs": {
-    "url": "https://github.com/Winding6636/Hyper-Anceril_Theme/issues"
+    "url": "https://github.com/Winding6636/Hyper-Ancerise_Theme/issues"
   },
-  "homepage": "https://github.com/Winding6636/Hyper-Anceril_Theme#readme"
+  "homepage": "https://github.com/Winding6636/Hyper-Ancerise_Theme#readme"
 }
