@@ -1,7 +1,7 @@
 
-# Hyper Theme Anceril_Sacred
+# Hyper Theme Ancerise_Sacred
 
-Hyper Anceril is Hyper ThemePlugin
+Hyper Ancerise is Hyper ThemePlugin
 Hyperのアンセルテーマ・プラグインです。
 
  #### [アンセリス=セイクリッド](https://dic.pixiv.net/a/%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB)
