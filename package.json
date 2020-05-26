@@ -29,7 +29,7 @@
     "color": "3.1.2",
     "cross-env": "5.2.1",
     "css-loader": "2.1.1",
-    "eslint": "7.0.0",
+    "eslint": "7.1.0",
     "eslint-config-google": "0.9.1",
     "husky": "0.14.3",
     "lint-staged": "7.3.0",
